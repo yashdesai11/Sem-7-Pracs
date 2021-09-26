@@ -1,1 +1,1 @@
-# Sem-7-Pracs
+# Sem-7-ML-Pracs
